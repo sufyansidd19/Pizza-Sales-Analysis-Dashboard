@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis-Dashboard
-![Pizza Sales Dashboard](ss.png)
+![Pizza Sales Dashboard](dashboard.png)
 
 ## Project Description
 
