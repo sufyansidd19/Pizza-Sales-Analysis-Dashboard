@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project is a **Pizza Sales Analysis Dashboard** designed to provide key insights into business performance using real-world sales data. The goal was to analyze order trends, identify top-selling items, and extract actionable insights that can help improve strategic decision-making in a restaurant or food chain environment.
+This project is a **Pizza Sales Analysis Dashboard** designed to provide key insights into business performance using real world sales data. The goal was to analyze order trends, identify top selling items, and extract actionable insights that can help improve strategic decision making in a restaurant or food chain environment.
 
 The project is built using:
 - **Microsoft SQL Server** – for querying, analyzing, and transforming data.
@@ -11,7 +11,7 @@ The project is built using:
 
 ## About the Project
 
-In this project, I worked with a dataset containing detailed pizza sales records, including order timestamps, pizza categories, sizes, and prices. I performed SQL-based data analysis and imported the results into Excel to create a meaningful dashboard.
+In this project, I worked with a dataset containing detailed pizza sales records, including order timestamps, pizza categories, sizes, and prices. I performed SQL based data analysis and imported the results into Excel to create a meaningful dashboard.
 
 ## Key Performance Indicators (KPIs)
 
@@ -21,7 +21,7 @@ In this project, I worked with a dataset containing detailed pizza sales records
 4. **Total Orders** – Total number of individual orders placed  
 5. **Average Pizzas Per Order** – Total pizzas sold divided by the number of orders
 
-## 🎧 Spotify SQL Query Practice
+## SQL Queries For Key Performance Indicators:
 
 ### 1. Total Revenue
 ```sql
